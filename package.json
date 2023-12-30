@@ -1,15 +1,15 @@
 {
-  "name": "SSR-React",
+  "name": "Personal Project",
   "version": "1.0.0",
-  "description": "Projeto Criado com React",
+  "description": "Project created with Javascript",
   "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"Next",
-    "build":"next building",
-    "start": "next-start"
+    "dev":"Javascript",
+    "build":"Javascript building",
+    "start": "Javascript-start"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Lucas Martinez Scordamaglia",
+  "license": "MIT"
 }
